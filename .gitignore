@@ -1,0 +1,13 @@
+*.log
+*.swp
+
+.github
+.cache
+.temp
+.idea
+.swc
+.rn_temp
+.DS_Store
+
+node_modules
+/data/*
